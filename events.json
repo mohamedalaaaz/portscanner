@@ -1,0 +1,39 @@
+{
+  "english": {
+    "date": "jjjj",
+    "location": "jjjjj",
+    "attendees": [
+      "danile",
+      "mark",
+      "mostaf",
+      "tom"
+    ]
+  },
+  "code": {
+    "date": "2024-12-28",
+    "location": "cairo",
+    "attendees": [
+      "mariam",
+      "maria",
+      "omar",
+      "stefn"
+    ]
+  },
+  "art": {
+    "date": "2025",
+    "location": "toyko",
+    "attendees": [
+      "jomana",
+      "crols",
+      "ismail"
+    ]
+  },
+  "law": {
+    "date": "2024-12-30",
+    "location": "london",
+    "attendees": [
+      "mohamed",
+      "moaz"
+    ]
+  }
+}
